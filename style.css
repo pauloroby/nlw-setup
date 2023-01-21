@@ -21,6 +21,7 @@ header {
   position: fixed;
   padding: 48px;
   width: 100%;
+  background-color: #09090a;
 }
 
 button {
