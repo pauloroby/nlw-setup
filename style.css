@@ -102,7 +102,7 @@ input {
 
 /* Pseudo selector */
 input:checked {
-  background: #8b5cf6;
+  background: #976ff5;
   border: 2px solid #a78bfa;
 }
 
