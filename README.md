@@ -1,4 +1,4 @@
-#Habits - <a href="https://paulovarrone.github.io/nlw-setup/" target="_blank">Acesse aqui</a>
+# Habits - <a href="https://paulovarrone.github.io/nlw-setup/" target="_blank">Acesse aqui</a>
 
 <p align="center">
  NLW é um evento gratuito em que pude fazer parte ao conhecer a Rocketseat. Aprendi diversas tecnologias WEB.<br/>
